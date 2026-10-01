@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+google-genai
+langgraph
+langchain
+langchain-google-genai
+qdrant-client
+pytest
+httpx
